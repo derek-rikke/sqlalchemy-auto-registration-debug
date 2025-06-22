@@ -1,0 +1,1 @@
+# sqlalchemy-auto-registration-debug
